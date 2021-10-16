@@ -13,14 +13,16 @@ header {
 header h1{
 
 }
-
+figcaption {font-size: 20px;}
+   
 main {
 
 }
 article {
 
 }
-figure image {width: 25px;}
+figure img {width: 400px;
+    text-align: center;}
    
 h2 {
   
