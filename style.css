@@ -7,13 +7,28 @@ body {
   
 }
 
-header {
+header { text-align: center;
+    font-size: xx-large;
+    line-height: 0.8em;
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&display=swap" rel="stylesheet">
   
 }
-header h1{
+p { text-align: center;
+    font-size: medium;
+    font-family: ;
 
 }
-figcaption {font-size: 20px;}
+h1{font-family: 'Caveat', cursive;
+    color: #A77F56
+    : #333E4B;
+    text-align: center;
+
+
+}
+figcaption {font-size: 20px;
+text-align: center;}
    
 main {
 
@@ -21,13 +36,24 @@ main {
 article {
 
 }
-figure img {width: 400px;
-    text-align: center;}
+figure img {width: 50%;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    display: block;
+    margin: 0 auto;
+}
    
 h2 {
-  
+  font-size: large;
+  text-align: center;
 }
 
+ul {display: inline;
+    text-align: center;
+    padding-right: 20px;
+    word-spacing: 20px;
+    
+}
 h3 {
 
 }
