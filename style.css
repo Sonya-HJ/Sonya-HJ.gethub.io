@@ -107,19 +107,20 @@ aside {
 #riley_tongue_out {
     grid-column: 2 / 2;
     grid-row: 2;
+    height: 258px
 }
 
 #graduation_1 img, #riley_with_matthew img, #riley_tongue_out img, #ear_up_by_couch img, #riley_tongue_out_sleeping img {
     width: 50%;
     float: right;
     padding-right: 10px;
-    height: 258px
+    
 }
 #graduation_2 img, #riley_with_matthew img, #riley_tongue_out img {
     width: 50%;
     float: left;
     padding-left: 10px;
-    height: 258px
+   
 }
 
 #around_the_house_grid {
